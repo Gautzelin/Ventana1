@@ -57,5 +57,4 @@ public class Estudiantes {
         return "numero de cedula: "+getCedula()+ " edad: "+getEdad()+" nombre: "+getNombre()+" nacionalidad: "+getNacionalidad();
     }
 
-
 }
