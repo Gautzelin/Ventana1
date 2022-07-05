@@ -11,5 +11,5 @@ public class imc {
         JOptionPane.showMessageDialog(null, "Si IMC es: "+totalImc, "sumando", JOptionPane.INFORMATION_MESSAGE);
         //System.out.println(numero1+numero2);
     }
-
+    //Hola a todos
 }
