@@ -1,6 +1,7 @@
 import javax.swing.*;
 
 public class Dialogo {
+    //Metodo main para ejecutar el programa
     public static void main(String[] args) {
         //JOptionPane.showMessageDialog(null, "bienvenidos");
         //JOptionPane.showInputDialog(null, "introduzca un dato: ")
